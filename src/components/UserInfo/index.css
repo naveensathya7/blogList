@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.profile {
+  height: 150px;
+  width: 150px;
+}
+.profile-heading {
+  color: #12022f;
+  font-family: 'Roboto';
+}
+.profile-desc {
+  color: #616e7c;
+}
